@@ -31,6 +31,7 @@
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 누가복음 18:18-23 강해: 자기 기준 vs 하나님 기준, 자기 의 포기, 기준 전환
 - [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — 누가복음 18:24-30 강해: 낙타·바늘귀, "내가 맞다"=부자, 존재 기반 버리기, 타이거 우즈·존 고트먼 예화, 십자가=하나님의 맞음 포기
 - [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] — 누가복음 18:31-34 강해: 보아도 보지 못하는 이유, 자기 운영 체계(OS), 비르길·프라카슈 프로젝트, 십자가=OS 전환
+- [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] — 누가복음 18:35-43 강해: 다시 보게 하소서, ἀναβλέπω, 여리고=무너짐, 양심의 목적, 마틴 루터, 불쌍히 여기소서
 
 ## hermeneutics (해석학)
 
