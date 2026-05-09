@@ -25,6 +25,7 @@
 - [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] — 누가복음 17:11-19 강해: 귀환, 문제 해결 ≠ 귀환, 9명 vs 사마리아인, 예수 그리스도가 유일한 귀환의 자리
 - [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] — 누가복음 17:20-30 강해: 이미 와 있는데 못 보는 이유, 십자가와 가시성, 중심축 (사순절)
 - [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] — 누가복음 17:30-37 강해: 헛된 줄 알고 버리네, 무엇을 붙잡느냐, 십자가 (성금요일)
+- [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] — 누가복음 18:1-8 강해: 세상에서 믿음을 보겠느냐, 과부=신랑 없음, 결핍과 갈망, 금식 신학, 보험 신앙 비판
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 누가복음 18:9-14 강해: 자기 안에 머무는 자 vs 바깥을 향해 나가는 자, 자기 의, 껍데기 안의 제왕
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 누가복음 18:15-17 강해: 자아 유지 장치, 어린아이처럼 받아들임, 거짓 자아
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 누가복음 20:9-18 강해: 피할 수 없는 충돌, 머릿돌, 소유권·청지기
