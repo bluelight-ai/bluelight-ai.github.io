@@ -302,4 +302,5 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 - [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]]
 - [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]]
 - [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]]
+- [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]]
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]]
