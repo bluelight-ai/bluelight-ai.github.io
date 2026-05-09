@@ -17,6 +17,7 @@
 - [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] — 누가복음 16:14-18 강해(1): 돈=자기 의, 자기 우상숭배, 침입=자기 의 파괴, 의의 기준 전환
 - [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name]] — 누가복음 16:14-18 강해(2): 18절 간음=자기 의 두 형태, 아내=율법 본질, 그리스도의 이름
 - [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] — 누가복음 16:19-21 강해: 부자(자기 잔치)·나사로(거지임을 앎)·개들, 헬코스, 평양 대부흥
+- [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades]] — 누가복음 16:22-23 강해: 죽음은 실체를 폭로한다, 두 죽음의 문법, 음부(하데스)=내면의 죄 실체, 시금석, 곰팡이 예화
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마태복음 6:19-24 강해: 보물·마음·눈·OS 전환(거듭남)
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 누가복음 16:23-26 강해: 은혜가 들어가지 못하는 구조, 병뚜껑, 존재의 구조, 카스마
 - [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] — 누가복음 16:27-31 강해: 자기 언어로 강제 고정된 심장, 락, 균열, 재코딩(거듭남)
