@@ -29,6 +29,7 @@
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 누가복음 18:15-17 강해: 자아 유지 장치, 어린아이처럼 받아들임, 거짓 자아
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 누가복음 20:9-18 강해: 피할 수 없는 충돌, 머릿돌, 소유권·청지기
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 누가복음 18:18-23 강해: 자기 기준 vs 하나님 기준, 자기 의 포기, 기준 전환
+- [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — 누가복음 18:24-30 강해: 낙타·바늘귀, "내가 맞다"=부자, 존재 기반 버리기, 타이거 우즈·존 고트먼 예화, 십자가=하나님의 맞음 포기
 
 ## hermeneutics (해석학)
 
