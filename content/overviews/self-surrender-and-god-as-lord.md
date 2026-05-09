@@ -292,6 +292,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 - [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]]
 - [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]]
 - [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]]
+- [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]]
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]]
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]]
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]]
