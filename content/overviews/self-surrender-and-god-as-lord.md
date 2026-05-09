@@ -44,6 +44,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 17:11-19 | 귀환 — 문제 해결 ≠ 귀환, 예수님이 유일한 귀환의 자리 | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] |
 | 눅 17:20-30 | 이미 와 있는 나라를 못 보는 이유 — 십자가 통과 필요 | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] |
 | 눅 17:30-37 | 무엇을 붙잡느냐 — 헛된 것을 버리고 그리스도를 붙잡음 | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] |
+| 눅 18:1-8 | 과부=신랑 없음, 결핍과 갈망, 금식 신학, 보험 신앙 비판 | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] |
 | 눅 18:9-14 | 자기 안에 머무는 자 vs 바깥을 향해 나가는 자 | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] |
 | 눅 18:15-17 | 자아 유지 장치 — 어린아이처럼 받아들임, 거짓 자아 | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] |
 | 눅 18:18-23 | 자기 기준 vs 하나님 기준 — 자기 의를 팔아라 | [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] |
