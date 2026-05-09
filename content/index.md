@@ -29,7 +29,7 @@
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 누가복음 18:9-14 강해: 자기 안에 머무는 자 vs 바깥을 향해 나가는 자, 자기 의, 껍데기 안의 제왕
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 누가복음 18:15-17 강해: 자아 유지 장치, 어린아이처럼 받아들임, 거짓 자아
 - [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] — 누가복음 19:1-10 강해: 내려와야 들어간다, 삭개오 이름 역설, 샌드위치 구조, 율법의 목적, 존재의 혁명
-- [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] — 누가복음 19:11-27 강해: 왕이 보이지 않는 시간, 세 부류(왕거부·수건·충성된 종), 코람데오, 이집트 선교사·애니 2
+- [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] — 누가복음 19:11-27 강해: 왕이 보이지 않는 시간, 세 부류(왕거부·수건·충성된 종), 코람데오, 이집트 선교사·애니투
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 누가복음 20:9-18 강해: 피할 수 없는 충돌, 머릿돌, 소유권·청지기
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 누가복음 18:18-23 강해: 자기 기준 vs 하나님 기준, 자기 의 포기, 기준 전환
 - [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — 누가복음 18:24-30 강해: 낙타·바늘귀, "내가 맞다"=부자, 존재 기반 버리기, 타이거 우즈·존 고트먼 예화, 십자가=하나님의 맞음 포기
