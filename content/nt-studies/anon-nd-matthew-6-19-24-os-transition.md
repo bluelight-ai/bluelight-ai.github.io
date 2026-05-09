@@ -8,7 +8,7 @@ category: nt-studies
 pdf_path: C:\Users\mindv\Dropbox\PC (2)\Downloads\llm-wiki\papers\anon-nd-matthew-6-19-24-os-transition.txt
 pdf_filename: anon-nd-matthew-6-19-24-os-transition.txt
 source_collection: external
-tags: [마태복음, 산상수훈, 보물, 마음, 눈, 운영체계, 거듭남, 만몬]
+tags: [마태복음, 산상수훈, 보물, 마음, 눈, 운영체계, 거듭남, 맘몬]
 ---
 
 ## 요약
@@ -41,7 +41,7 @@ tags: [마태복음, 산상수훈, 보물, 마음, 눈, 운영체계, 거듭남,
 - 뱀의 유혹 = 눈의 변질 ("보암직하고 먹음직하며 탐스러운" 육체적 기준)
 
 ## 주요 개념
-- **만몬(Mammon)**: '신뢰한다(아만)'에서 유래. 재물을 신뢰·의존하는 상태
+- **맘몬(Mammon)**: '신뢰한다(아만)'에서 유래. 재물을 신뢰·의존하는 상태
 - **성한 눈**: 진리의 기준, 온몸을 밝게 함
 - **나쁜 눈**: 왜곡된 기준, 존재를 어둡게 함
 
