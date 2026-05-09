@@ -14,6 +14,7 @@
 - [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] — 누가복음 15:20-32 강해: 돌아온 탕자·돌아오지 않은 큰아들(바리새인), 자기 의와 잔치
 - [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 누가복음 16:1-7 강해: 불의한 청지기, 자기 의 100→0, 신인협동설 비판, 전적 은혜
 - [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ]] — 누가복음 16:8-14 강해: 작은 것(자기 의) 버려야 큰 것(그리스도 의) 얻음, 배설물, 영주할 처소
+- [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] — 누가복음 16:14-18 강해: 돈=자기 의, 자기 우상숭배, 침입=자기 의 파괴, 의의 기준 전환
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마태복음 6:19-24 강해: 보물·마음·눈·OS 전환(거듭남)
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 누가복음 16:23-26 강해: 은혜가 들어가지 못하는 구조, 병뚜껑, 존재의 구조, 카스마
 - [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] — 누가복음 16:27-31 강해: 자기 언어로 강제 고정된 심장, 락, 균열, 재코딩(거듭남)
