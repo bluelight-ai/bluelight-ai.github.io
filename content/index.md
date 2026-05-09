@@ -12,6 +12,7 @@
 - [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] — 누가복음 15:8-10 강해: 죄의 본질은 분리, 회개의 본질은 찾아짐, 드라크마=사랑의 증표
 - [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] — 누가복음 15:11-19 강해: 탕자의 독립 선언, 분리→소진→흉년→밑바닥, 각성과 회개
 - [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] — 누가복음 15:20-32 강해: 돌아온 탕자·돌아오지 않은 큰아들(바리새인), 자기 의와 잔치
+- [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 누가복음 16:1-7 강해: 불의한 청지기, 자기 의 100→0, 신인협동설 비판, 전적 은혜
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마태복음 6:19-24 강해: 보물·마음·눈·OS 전환(거듭남)
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 누가복음 16:23-26 강해: 은혜가 들어가지 못하는 구조, 병뚜껑, 존재의 구조, 카스마
 - [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] — 누가복음 16:27-31 강해: 자기 언어로 강제 고정된 심장, 락, 균열, 재코딩(거듭남)
