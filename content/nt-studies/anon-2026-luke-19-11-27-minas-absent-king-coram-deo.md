@@ -8,7 +8,7 @@ category: [nt-studies]
 pdf_path:
 pdf_filename:
 source_collection: sermon-transcript
-tags: [므나비유, 왕부재, 세부류, 코람데오, 수건죽은믿음, 인간주권허구, 이집트선교사, 애니2]
+tags: [므나비유, 왕부재, 세부류, 코람데오, 수건죽은믿음, 인간주권허구, 이집트선교사, 애니투]
 ---
 
 ## 요약
