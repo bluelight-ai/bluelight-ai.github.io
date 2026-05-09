@@ -9,6 +9,7 @@
 - [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] — 누가복음 14:15-24 강해: 진짜 현실은 무엇인가, 합리적 거절, 궁극을 현실로 붙잡음
 - [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] — 누가복음 14:25-35 강해: 값을 계산하라, 무리·제자·종의 구분, 소금의 맛, 선교사 예화
 - [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] — 누가복음 15:1-7 강해: 잃은 양(상하고 통회하는 심령) vs 99(자기 의), 카탈레이포, 목자의 명예
+- [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] — 누가복음 15:8-10 강해: 죄의 본질은 분리, 회개의 본질은 찾아짐, 드라크마=사랑의 증표
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마태복음 6:19-24 강해: 보물·마음·눈·OS 전환(거듭남)
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 누가복음 16:23-26 강해: 은혜가 들어가지 못하는 구조, 병뚜껑, 존재의 구조, 카스마
 - [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] — 누가복음 16:27-31 강해: 자기 언어로 강제 고정된 심장, 락, 균열, 재코딩(거듭남)
