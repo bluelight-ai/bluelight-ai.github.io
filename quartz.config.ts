@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "bluelight-ai.github.io/llm-wiki",
+    baseUrl: "bluelight-ai.github.io/w7k3p9m2x4q8",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
