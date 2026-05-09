@@ -53,6 +53,9 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 18:35-43 | 다시 봄(ἀναβλέπω) — 여리고=무너짐, 양심의 목적, 마틴 루터 | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] |
 | 눅 19:1-10 | 삭개오 이름 역설, 샌드위치 구조(부자관원-맹인-삭개오), 율법의 목적, 존재의 혁명 | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] |
 | 눅 19:11-27 | 왕이 보이지 않는 시간, 세 부류, 수건=죽은 믿음, 코람데오 | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] |
+| 눅 19:28-40 | 마지막 결정권자, 벳파게(열매 없음)·베다니(열매 있음), 낮은 왕·십자가 | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] |
+| 눅 19:41-44 | 확증 편향, 방문의 때(ἐπισκοπή), 금이 가는 삶, 에이레네 | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] |
+| 눅 19:45-48 | 강도의 소굴=도피처, 기도의 정의(ἐκκρεμάννυμι), 부흥=말씀 운동 | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] |
 | 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
 
 ---
