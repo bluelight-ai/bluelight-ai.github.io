@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "기독교 성경연구 위키",
+    pageTitle: "말씀클리닉 성경연구",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
