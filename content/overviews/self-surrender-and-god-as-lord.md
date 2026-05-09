@@ -52,6 +52,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 18:31-34 | 보아도 못 봄 — 자기 운영 체계(OS), 비르길·프라카슈, 십자가=OS 전환 | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] |
 | 눅 18:35-43 | 다시 봄(ἀναβλέπω) — 여리고=무너짐, 양심의 목적, 마틴 루터 | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] |
 | 눅 19:1-10 | 삭개오 이름 역설, 샌드위치 구조(부자관원-맹인-삭개오), 율법의 목적, 존재의 혁명 | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] |
+| 눅 19:11-27 | 왕이 보이지 않는 시간, 세 부류, 수건=죽은 믿음, 코람데오 | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] |
 | 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
 
 ---
