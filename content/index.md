@@ -31,6 +31,7 @@
 - [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] — 누가복음 19:1-10 강해: 내려와야 들어간다, 삭개오 이름 역설, 샌드위치 구조, 율법의 목적, 존재의 혁명
 - [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] — 누가복음 19:11-27 강해: 왕이 보이지 않는 시간, 세 부류(왕거부·수건·충성된 종), 코람데오, 이집트 선교사·애니투
 - [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] — 누가복음 19:28-40 강해: 마지막 결정권자가 누구인가, 벳파게(열매 없음)·베다니(열매 있음), 낮은 왕·십자가
+- [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] — 누가복음 19:41-44 강해: 왕을 알아보지 못하는 이유, 확증 편향·고릴라 실험·알고리즘, 방문의 때, 에이레네
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 누가복음 20:9-18 강해: 피할 수 없는 충돌, 머릿돌, 소유권·청지기
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 누가복음 18:18-23 강해: 자기 기준 vs 하나님 기준, 자기 의 포기, 기준 전환
 - [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — 누가복음 18:24-30 강해: 낙타·바늘귀, "내가 맞다"=부자, 존재 기반 버리기, 타이거 우즈·존 고트먼 예화, 십자가=하나님의 맞음 포기
