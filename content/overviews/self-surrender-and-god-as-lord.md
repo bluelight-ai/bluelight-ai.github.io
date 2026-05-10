@@ -392,3 +392,4 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 - [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]]
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]]
 - [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]]
+- [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]]
