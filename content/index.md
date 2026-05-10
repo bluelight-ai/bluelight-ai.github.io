@@ -112,4 +112,4 @@
 
 - **ot-studies**: 구약 연구 (1편)
 - **nt-studies**: 신약 연구 (36편)
-- **overviews**: 종합 페이지 (1편)
+- **overviews**: 종합 페이지 (5편)
