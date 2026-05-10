@@ -79,89 +79,89 @@ title: "말씀클리닉 성경연구 Wiki"
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 1 | 출 6:1–7 | 누구도 이기지 못하는 약함<br>*신음소리·약함이 하나님의 이름을 공개하게 만든 힘* | [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] | <a href="https://youtu.be/zlu1f3fhEbc" target="_blank">▶</a> |
+| 1 | 출 6:1–7 | 누구도 이기지 못하는 약함 | [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] | <a href="https://youtu.be/zlu1f3fhEbc" target="_blank">▶</a> |
 
 ### 마태복음
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 2 | 마 6:19–24 | 인생의 운영체제를 전환하라<br>*보물·마음·눈·OS 전환(거듭남)* | [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] | <a href="https://youtu.be/Y4ieULjxx0Q" target="_blank">▶</a> |
+| 2 | 마 6:19–24 | 인생의 운영체제를 전환하라 | [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] | <a href="https://youtu.be/Y4ieULjxx0Q" target="_blank">▶</a> |
 | 3 | 마 6:25–34 | 솔로몬의 영광보다 위대한 특별한 은총 — 보편 은총 vs 특별 은총, 영생=시간이 멈춤 | [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace]] | |
 
 ### 누가복음 14장
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 4 | 눅 14:15–24 | 진짜 현재는 언제일까?<br>*진짜 현실은 무엇인가, 합리적 거절, 궁극을 현실로 붙잡음* | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] | <a href="https://youtu.be/OGUZsdiPz1c" target="_blank">▶</a> |
-| 5 | 눅 14:25–35 | 값을 치르는 사람들<br>*값을 계산하라, 무리·제자·종의 구분, 소금의 맛* | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] | <a href="https://youtu.be/x2fEYZrapWE" target="_blank">▶</a> |
+| 4 | 눅 14:15–24 | 진짜 현재는 언제일까? | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] | <a href="https://youtu.be/OGUZsdiPz1c" target="_blank">▶</a> |
+| 5 | 눅 14:25–35 | 값을 치르는 사람들 | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] | <a href="https://youtu.be/x2fEYZrapWE" target="_blank">▶</a> |
 
 ### 누가복음 15장 (탕자 비유)
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 6 | 눅 15:1–7 | 아흔아홉에게 없는 한 가지<br>*잃은 양(상하고 통회하는 심령) vs 99(자기 의)* | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] | <a href="https://youtu.be/rERDq0aUVOc" target="_blank">▶</a> |
-| 7 | 눅 15:8–10 | 찾을 때가지 찾으신다<br>*죄의 본질은 분리, 회개의 본질은 찾아짐* | [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] | <a href="https://youtu.be/5D2LDD7vlHk" target="_blank">▶</a> |
-| 8 | 눅 15:11–19 | 굶어죽는 자리에서 각성하다<br>*탕자의 독립 선언, 분리→소진→흉년→밑바닥* | [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] | <a href="https://youtu.be/RS0gNjJK8Tc" target="_blank">▶</a> |
-| 9 | 눅 15:20–32 | 돌아오지 않은 큰 아들<br>*돌아온 탕자·돌아오지 않은 큰아들, 자기 의와 잔치* | [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] | <a href="https://youtu.be/Rxk0ZQOd0kQ" target="_blank">▶</a> |
+| 6 | 눅 15:1–7 | 아흔아홉에게 없는 한 가지 | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] | <a href="https://youtu.be/rERDq0aUVOc" target="_blank">▶</a> |
+| 7 | 눅 15:8–10 | 찾을 때가지 찾으신다 | [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] | <a href="https://youtu.be/5D2LDD7vlHk" target="_blank">▶</a> |
+| 8 | 눅 15:11–19 | 굶어죽는 자리에서 각성하다 | [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] | <a href="https://youtu.be/RS0gNjJK8Tc" target="_blank">▶</a> |
+| 9 | 눅 15:20–32 | 돌아오지 않은 큰 아들 | [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] | <a href="https://youtu.be/Rxk0ZQOd0kQ" target="_blank">▶</a> |
 
 ### 누가복음 16장 (부자와 나사로)
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 10 | 눅 16:1–7 | 일하지도 못하고, 빌어먹지도 못하는 인간<br>*불의한 청지기, 자기 의 100→0, 전적 은혜* | [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] | <a href="https://youtu.be/O7dNNurs4yQ" target="_blank">▶</a> |
-| 11 | 눅 16:8–14 | 작은 것을 버려야 큰 것을 얻는다<br>*작은 것(자기 의) 버려야 큰 것(그리스도 의) 얻음* | [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ]] | <a href="https://youtu.be/SrT-JXW60Tg" target="_blank">▶</a> |
-| 12 | 눅 16:14–18(1) | 의의 기준이 바뀌는 순간<br>*돈=자기 의, 자기 우상숭배, 침입=자기 의 파괴* | [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] | <a href="https://youtu.be/bvUyWfopgAQ" target="_blank">▶</a> |
-| 13 | 눅 16:14–18(2) | 유일하게 인정받는 의<br>*18절 간음=자기 의 두 형태, 그리스도의 이름* | [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name]] | <a href="https://youtu.be/CLrneukipXw" target="_blank">▶</a> |
-| 14 | 눅 16:19–21 | 자기를 잔치하는 사람 vs 긍휼 아래 엎드리는 사람<br>*부자(자기 잔치)·나사로(거지임을 앎), 헬코스* | [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] | <a href="https://youtu.be/cNQ973z2pUI" target="_blank">▶</a> |
-| 15 | 눅 16:22–23 | 죽음은 실체를 폭로한다<br>*죽음은 실체를 폭로한다, 음부=내면의 죄 실체* | [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades]] | <a href="https://youtu.be/rwgIgdvK82E" target="_blank">▶</a> |
-| 16 | 눅 16:23–26 | 은혜가 들어가지 못하는 구조<br>*은혜가 들어가지 못하는 구조, 병뚜껑, 카스마* | [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] | <a href="https://youtu.be/4ezUd7gm1-E" target="_blank">▶</a> |
-| 17 | 눅 16:27–31 | 자기 언어로 강제 고정된 심장들<br>*자기 언어로 강제 고정된 심장, 락, 재코딩(거듭남)* | [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] | <a href="https://youtu.be/F1s2XxOs5aQ" target="_blank">▶</a> |
+| 10 | 눅 16:1–7 | 일하지도 못하고, 빌어먹지도 못하는 인간 | [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] | <a href="https://youtu.be/O7dNNurs4yQ" target="_blank">▶</a> |
+| 11 | 눅 16:8–14 | 작은 것을 버려야 큰 것을 얻는다 | [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ]] | <a href="https://youtu.be/SrT-JXW60Tg" target="_blank">▶</a> |
+| 12 | 눅 16:14–18(1) | 의의 기준이 바뀌는 순간 | [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] | <a href="https://youtu.be/bvUyWfopgAQ" target="_blank">▶</a> |
+| 13 | 눅 16:14–18(2) | 유일하게 인정받는 의 | [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name]] | <a href="https://youtu.be/CLrneukipXw" target="_blank">▶</a> |
+| 14 | 눅 16:19–21 | 자기를 잔치하는 사람 vs 긍휼 아래 엎드리는 사람 | [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] | <a href="https://youtu.be/cNQ973z2pUI" target="_blank">▶</a> |
+| 15 | 눅 16:22–23 | 죽음은 실체를 폭로한다 | [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades]] | <a href="https://youtu.be/rwgIgdvK82E" target="_blank">▶</a> |
+| 16 | 눅 16:23–26 | 은혜가 들어가지 못하는 구조 | [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] | <a href="https://youtu.be/4ezUd7gm1-E" target="_blank">▶</a> |
+| 17 | 눅 16:27–31 | 자기 언어로 강제 고정된 심장들 | [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] | <a href="https://youtu.be/F1s2XxOs5aQ" target="_blank">▶</a> |
 
 ### 누가복음 17장
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 18 | 눅 17:1–10 | 당신이 매 번 실족하는 이유<br>*실족의 원인=자기 의(뽕나무), 겨자씨 믿음=자기 부인* | [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] | <a href="https://youtu.be/-A6oE8CCBpY" target="_blank">▶</a> |
-| 19 | 눅 17:11–19 | 문제를 고쳤지만 돌아오지 않은 사람들<br>*귀환, 문제 해결 ≠ 귀환, 예수 그리스도가 유일한 귀환의 자리* | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] | <a href="https://youtu.be/faI5KYxDtFY" target="_blank">▶</a> |
-| 20 | 눅 17:20–30 | 이미 와 있는데 못 보는 이유<br>*이미 와 있는데 못 보는 이유, 십자가와 가시성* | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] | <a href="https://youtu.be/uPRppK11d4Y" target="_blank">▶</a> |
-| 21 | 눅 17:30–37 | 헛된 줄 알고 버리네<br>*헛된 줄 알고 버리네, 무엇을 붙잡느냐* | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] | <a href="https://youtu.be/zoKkZKqDp_s" target="_blank">▶</a> |
+| 18 | 눅 17:1–10 | 당신이 매 번 실족하는 이유 | [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] | <a href="https://youtu.be/-A6oE8CCBpY" target="_blank">▶</a> |
+| 19 | 눅 17:11–19 | 문제를 고쳤지만 돌아오지 않은 사람들 | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] | <a href="https://youtu.be/faI5KYxDtFY" target="_blank">▶</a> |
+| 20 | 눅 17:20–30 | 이미 와 있는데 못 보는 이유 | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] | <a href="https://youtu.be/uPRppK11d4Y" target="_blank">▶</a> |
+| 21 | 눅 17:30–37 | 헛된 줄 알고 버리네 | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] | <a href="https://youtu.be/zoKkZKqDp_s" target="_blank">▶</a> |
 
 ### 누가복음 18장
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 22 | 눅 18:1–8 | 세상에서 믿음을 보겠느냐<br>*세상에서 믿음을 보겠느냐, 과부=신랑 없음, 갈망* | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] | <a href="https://youtu.be/GAsGnuRaoYA" target="_blank">▶</a> |
-| 23 | 눅 18:9–14 | 삶에게 질문받는 존재<br>*자기 안에 머무는 자 vs 바깥을 향해 나가는 자* | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] | <a href="https://youtu.be/f4dFroFh0EY" target="_blank">▶</a> |
-| 24 | 눅 18:15–17 | 인간의 자아 유지 장치들<br>*자아 유지 장치, 어린아이처럼 받아들임* | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] | <a href="https://youtu.be/VkklWhLoL0w" target="_blank">▶</a> |
-| 25 | 눅 18:18–23 | 자기 기준보다 더 높은 기준이 있다<br>*자기 기준 vs 하나님 기준, 자기 의 포기* | [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] | <a href="https://youtu.be/MEtNu3N_liQ" target="_blank">▶</a> |
-| 26 | 눅 18:24–30 | '맞다'가 '맞다'를 만났을 때<br>*낙타·바늘귀, "내가 맞다"=부자, 존재 기반 버리기* | [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] | <a href="https://youtu.be/AraOablu9SQ" target="_blank">▶</a> |
-| 27 | 눅 18:31–34 | 보아도 보지 못하는 이유<br>*보아도 보지 못하는 이유, 자기 운영 체계(OS)* | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] | <a href="https://youtu.be/QOLoHB5bee0" target="_blank">▶</a> |
-| 28 | 눅 18:35–43 | 다시 보게 하소서<br>*다시 보게 하소서(ἀναβλέπω), 양심의 목적, 루터* | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] | <a href="https://youtu.be/40kD82f-GzY" target="_blank">▶</a> |
+| 22 | 눅 18:1–8 | 세상에서 믿음을 보겠느냐 | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] | <a href="https://youtu.be/GAsGnuRaoYA" target="_blank">▶</a> |
+| 23 | 눅 18:9–14 | 삶에게 질문받는 존재 | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] | <a href="https://youtu.be/f4dFroFh0EY" target="_blank">▶</a> |
+| 24 | 눅 18:15–17 | 인간의 자아 유지 장치들 | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] | <a href="https://youtu.be/VkklWhLoL0w" target="_blank">▶</a> |
+| 25 | 눅 18:18–23 | 자기 기준보다 더 높은 기준이 있다 | [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] | <a href="https://youtu.be/MEtNu3N_liQ" target="_blank">▶</a> |
+| 26 | 눅 18:24–30 | '맞다'가 '맞다'를 만났을 때 | [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] | <a href="https://youtu.be/AraOablu9SQ" target="_blank">▶</a> |
+| 27 | 눅 18:31–34 | 보아도 보지 못하는 이유 | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] | <a href="https://youtu.be/QOLoHB5bee0" target="_blank">▶</a> |
+| 28 | 눅 18:35–43 | 다시 보게 하소서 | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] | <a href="https://youtu.be/40kD82f-GzY" target="_blank">▶</a> |
 
 ### 누가복음 19장
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 29 | 눅 19:1–10 | 내려와야 들어간다<br>*내려와야 들어간다, 삭개오 이름 역설, 존재의 혁명* | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] | <a href="https://youtu.be/flywFcG3pOU" target="_blank">▶</a> |
-| 30 | 눅 19:11–27 | 왕이 보이지 않는 시간<br>*왕이 보이지 않는 시간, 세 부류, 코람데오* | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] | <a href="https://youtu.be/DyI7w-v_Rs0" target="_blank">▶</a> |
-| 31 | 눅 19:28–40 | 마지막 결정권자가 누구인가<br>*마지막 결정권자가 누구인가, 벳파게·베다니, 낮은 왕* | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] | <a href="https://youtu.be/fGhgjl79nRE" target="_blank">▶</a> |
-| 32 | 눅 19:41–44 | 왕을 알아보지 못하는 이유<br>*왕을 알아보지 못하는 이유, 확증 편향·알고리즘* | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] | <a href="https://youtu.be/3SbGP1ffnag" target="_blank">▶</a> |
-| 33 | 눅 19:45–48 | 말씀에 붙들려 매달리는 곳<br>*말씀에 붙들려 매달림(ἐκκρεμάννυμι), 강도의 소굴, 기도* | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] | <a href="https://youtu.be/KIjR8TiNS9Y" target="_blank">▶</a> |
+| 29 | 눅 19:1–10 | 내려와야 들어간다 | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] | <a href="https://youtu.be/flywFcG3pOU" target="_blank">▶</a> |
+| 30 | 눅 19:11–27 | 왕이 보이지 않는 시간 | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] | <a href="https://youtu.be/DyI7w-v_Rs0" target="_blank">▶</a> |
+| 31 | 눅 19:28–40 | 마지막 결정권자가 누구인가 | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] | <a href="https://youtu.be/fGhgjl79nRE" target="_blank">▶</a> |
+| 32 | 눅 19:41–44 | 왕을 알아보지 못하는 이유 | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] | <a href="https://youtu.be/3SbGP1ffnag" target="_blank">▶</a> |
+| 33 | 눅 19:45–48 | 말씀에 붙들려 매달리는 곳 | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] | <a href="https://youtu.be/KIjR8TiNS9Y" target="_blank">▶</a> |
 
 ### 누가복음 20장
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
-| 34 | 눅 20:1–8 | 내 기준이 나를 못 보게 한다<br>*내 기준이 나를 못 보게 한다, 분리 불안, 이끌려가는 삶* | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] | <a href="https://youtu.be/IOu3MyNdjAk" target="_blank">▶</a> |
-| 35 | 눅 20:9–18 | 피할 수 없는 운명적인 충돌<br>*피할 수 없는 충돌, 머릿돌, 소유권·청지기* | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] | <a href="https://youtu.be/ohKrV-T5U60" target="_blank">▶</a> |
-| 36 | 눅 20:19–26 | 가이사의 형상, 하나님의 형상<br>*가이사의 형상 vs 하나님의 형상, 데나리온 신학* | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] | <a href="https://youtu.be/A4uSUVJggMQ" target="_blank">▶</a> |
+| 34 | 눅 20:1–8 | 내 기준이 나를 못 보게 한다 | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] | <a href="https://youtu.be/IOu3MyNdjAk" target="_blank">▶</a> |
+| 35 | 눅 20:9–18 | 피할 수 없는 운명적인 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] | <a href="https://youtu.be/ohKrV-T5U60" target="_blank">▶</a> |
+| 36 | 눅 20:19–26 | 가이사의 형상, 하나님의 형상 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] | <a href="https://youtu.be/A4uSUVJggMQ" target="_blank">▶</a> |
 
 ### 사도행전
 
 | # | 본문 | 제목 | 핵심 개념 | 영상 |
 |---|---|---|---|---|
 | 37 | 행 9:1–22 | 새로운 인생으로의 전환 — 네 가지 과정 | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] | |
-| 38 | 행 9:10–22 | 해석이 바뀌면 인생이 달라진다<br>*해석이 바뀌면 인생이 달라진다 — 근원 경험·의미의 통합·메타노이아* | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] | <a href="https://youtu.be/iO1QkpYSw2w" target="_blank">▶</a> |
+| 38 | 행 9:10–22 | 해석이 바뀌면 인생이 달라진다 | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] | <a href="https://youtu.be/iO1QkpYSw2w" target="_blank">▶</a> |
 
 ### 에베소서
 
