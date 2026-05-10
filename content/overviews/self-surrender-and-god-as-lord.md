@@ -60,6 +60,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
 | 눅 20:19-26 | 가이사의 형상 vs 하나님의 형상 — 데나리온 신학, 현대의 가이사(알고리즘), 소속의 증거 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
 | 행 9:1-22 | 새로운 인생으로의 전환 — 네 가지 과정: 정점 경험·의미 통합·해석 체계 전환·존재 방식 전환 | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
+| 행 9:10-22 | 해석이 바뀌면 인생이 달라진다 — 근원 경험 심화(헬렌 켈러·아폴뤼미·균열), 의미의 통합(김선도 감독 5분의 기적), 메타노이아 | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] |
 
 ---
 
