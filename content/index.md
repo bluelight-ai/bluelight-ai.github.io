@@ -89,16 +89,22 @@
 | 36 | 행 9:1-22 | 새로운 인생으로의 전환 — 네 가지 과정 (해석 체계의 전환, 삶에 존재하는 방식의 전환) | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
 | 37 | 행 9:10-22 | 해석이 바뀌면 인생이 달라진다 — 근원 경험의 심화(헬렌 켈러·아폴뤼미), 의미의 통합(김선도 감독 5분의 기적), 메타노이아 | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] |
 
+### 에베소서
+
+| # | 본문 | 제목 | 핵심 개념 |
+|---|---|---|---|
+| 38 | 엡 1:3-12 | 특별한 사람들의 위대한 사고방식 — 나는 누구이고 싶은가, 길이 먼저·뜻은 나중, 기쁨과 설렘 | [[nt-studies/anon-2026-eph-1-3-12-great-mindset-special-people]] |
+
 ### 종합 페이지
 
 | # | 제목 | 링크 |
 |---|---|---|
-| 38 | 자기 의의 해체와 하나님의 의 (38편 전체 종합) | [[overviews/self-surrender-and-god-as-lord]] |
+| 39 | 자기 의의 해체와 하나님의 의 (39편 전체 종합) | [[overviews/self-surrender-and-god-as-lord]] |
 
 ---
 
 ## 카테고리별 목록
 
 - **ot-studies**: 구약 연구 (1편)
-- **nt-studies**: 신약 연구 (34편)
+- **nt-studies**: 신약 연구 (35편)
 - **overviews**: 종합 페이지 (1편)
