@@ -26,6 +26,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 |---|---|---|
 | 출 6:1-7 | 신음소리(약함)가 하나님의 이름을 끌어냄 | [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] |
 | 마 6:19-24 | 마음의 OS 전환 — 땅의 보물 vs 하늘의 보물 | [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] |
+| 마 6:25-34 | 솔로몬의 영광보다 위대한 특별한 은총 — 인간 문명(솔로몬) < 보편 은총 < 특별 은총, 영생=시간이 멈춤, 엘리야-까마귀-사르밧 구조 | [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace]] |
 | 눅 14:15-24 | 진짜 현실은 잔치 — 합리적 거절, 궁극을 현실로 붙잡음 | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] |
 | 눅 14:25-35 | 무리·제자·종의 구분 — 소금의 맛, 에비슨·로제타 홀 | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] |
 | 눅 15:1-7 | 아폴뤼미(상함)=1 vs 카탈레이포(놔둠)=99, 목자의 명예 | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] |
