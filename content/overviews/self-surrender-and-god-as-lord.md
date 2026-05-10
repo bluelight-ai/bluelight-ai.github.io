@@ -386,6 +386,14 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 시간·영생 신학 | 영생 = 시간이 멈춤 / 내일이 없는 자 | [[overviews/time-and-eternity]] |
 | 은총의 계층 | 솔로몬 < 보편 은총 < 특별 은총 | [[overviews/common-and-special-grace]] |
 | 해석·운영 체계 | 같은 팩트, 다른 해석이 다른 인생을 만든다 | [[overviews/interpretation-and-os]] |
+| 신학 지도 | 40편이 4단계 구조에서 어디에 놓이는가 | [[overviews/theology-map]] |
+
+**도구 페이지**:
+- [[overviews/reading-path]] — 상황별·주제별 추천 읽기 순서
+- [[overviews/self-diagnosis-cards]] — 자기 진단 카드 (23개 질문, 소그룹 나눔용)
+- [[overviews/greek-terms-glossary]] — 원어 신학 용어 사전
+- [[overviews/illustrations-index]] — 예화·비유 색인
+- [[overviews/topic-index]] — 주제별·키워드별 색인
 
 ---
 
