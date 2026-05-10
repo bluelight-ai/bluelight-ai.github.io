@@ -56,7 +56,9 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 19:28-40 | 마지막 결정권자, 벳파게(열매 없음)·베다니(열매 있음), 낮은 왕·십자가 | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] |
 | 눅 19:41-44 | 확증 편향, 방문의 때(ἐπισκοπή), 금이 가는 삶, 에이레네 | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] |
 | 눅 19:45-48 | 강도의 소굴=도피처, 기도의 정의(ἐκκρεμάννυμι), 부흥=말씀 운동 | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] |
+| 눅 20:1-8 | 내 기준이 나를 못 보게 함 — 분리 불안, 기준 붕괴=십자가, 이끌려가는 삶 | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] |
 | 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
+| 눅 20:19-26 | 가이사의 형상 vs 하나님의 형상 — 데나리온 신학, 현대의 가이사(알고리즘), 소속의 증거 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
 
 ---
 
