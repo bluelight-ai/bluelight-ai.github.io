@@ -59,6 +59,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 | 눅 20:1-8 | 내 기준이 나를 못 보게 함 — 분리 불안, 기준 붕괴=십자가, 이끌려가는 삶 | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] |
 | 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
 | 눅 20:19-26 | 가이사의 형상 vs 하나님의 형상 — 데나리온 신학, 현대의 가이사(알고리즘), 소속의 증거 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
+| 행 9:1-22 | 새로운 인생으로의 전환 — 네 가지 과정: 정점 경험·의미 통합·해석 체계 전환·존재 방식 전환 | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
 
 ---
 
