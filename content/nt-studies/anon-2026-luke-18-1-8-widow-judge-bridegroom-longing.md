@@ -16,6 +16,9 @@ tags: [과부재판관, 신랑없음, 결핍과갈망, 금식신학, 보험신�
 
 <a href="https://youtu.be/GAsGnuRaoYA" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 일반 해석 비판 — 성경을 처세술로 읽는 오류
@@ -99,3 +102,6 @@ tags: [과부재판관, 신랑없음, 결핍과갈망, 금식신학, 보험신�
 - [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] — 헛된 것을 버리고 그리스도를 붙잡음
 - [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] — 나사로=거지임을 아는 자
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross|헛된 줄 알고 버리네]] | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward|삶에게 질문받는 존재]] →

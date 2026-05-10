@@ -16,6 +16,9 @@ tags: [불의한청지기, 자기의, 0으로, 전적은혜, 신인협동설, �
 
 <a href="https://youtu.be/O7dNNurs4yQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 인물 해석
@@ -93,3 +96,6 @@ tags: [불의한청지기, 자기의, 0으로, 전적은혜, 신인협동설, �
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인 vs 세리
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness|돌아오지 않은 큰 아들]] | [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ|작은 것을 버려야 큰 것을 얻는다]] →

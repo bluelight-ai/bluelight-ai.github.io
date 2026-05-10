@@ -16,6 +16,9 @@ tags: [누가복음, 부자청년, 관리, 자기의, 하나님의의, 기준, �
 
 <a href="https://youtu.be/MEtNu3N_liQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 - 인간은 자기 기준으로만 판단하지만, 항상 **더 높은 기준**이 존재한다
 - 관리(아르콘)는 율법을 **행함**으로 관리해 선함에 도달하려 했다 — 자기 의의 전형
@@ -44,3 +47,6 @@ tags: [누가복음, 부자청년, 관리, 자기의, 하나님의의, 기준, �
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 같은 교회 설교: 소유권 포기, 그리스도를 주인으로 받아들임
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 땅의 보물 vs 하늘의 보물; OS 전환(거듭남)
 - [[overviews/]] — "자기 의 포기 / 기준 전환" 주제 종합 (추후 생성 권장)
+
+---
+← [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices|인간의 자아 유지 장치들]] | [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible|'맞다'가 '맞다'를 만났을 때]] →

@@ -16,6 +16,9 @@ tags: [제자도, 종의라인, 값계산, 소금, 선교사, 무리vs제자]
 
 <a href="https://youtu.be/x2fEYZrapWE" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 세 층위: 무리 · 성도 · 종
@@ -61,3 +64,6 @@ tags: [제자도, 종의라인, 값계산, 소금, 선교사, 무리vs제자]
 - [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] — 겨자씨 믿음 = 자기 부인, 무익한 종
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 부자 관원: 자기 소유 포기 요구, 기준 전환
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet|진짜 현재는 언제일까?]] | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart|아흔아홉에게 없는 한 가지]] →

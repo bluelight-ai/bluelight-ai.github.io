@@ -16,6 +16,9 @@ tags: [자기의, 간음비유재해석, 율법본질, 그리스도의이름, �
 
 <a href="https://youtu.be/CLrneukipXw" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 자기 의 = 음식물 쓰레기
@@ -81,3 +84,6 @@ tags: [자기의, 간음비유재해석, 율법본질, 그리스도의이름, �
 - [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 100→0, 전적 은혜
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 부자 관원, 소유를 팔라
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence|의의 기준이 바뀌는 순간]] | [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity|자기를 잔치하는 사람 vs 긍휼 아래 엎드리는 사람]] →

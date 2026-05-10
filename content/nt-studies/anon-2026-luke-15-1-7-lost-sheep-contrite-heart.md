@@ -16,6 +16,9 @@ tags: [잃은양, 통회, 자기의, 99, 카탈레이포, 목자의명예, 팔�
 
 <a href="https://youtu.be/rERDq0aUVOc" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 어휘가 여는 신학
@@ -73,3 +76,6 @@ tags: [잃은양, 통회, 자기의, 99, 카탈레이포, 목자의명예, 팔�
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인 vs 세리, 자기 안에 머무는 자
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 부자 관원: 자기 기준 vs 하나님 기준
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant|값을 치르는 사람들]] | [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance|찾을 때가지 찾으신다]] →

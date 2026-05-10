@@ -17,6 +17,9 @@ tags: [보편은총, 특별은총, 솔로몬영광, 솔로몬콤플렉스, 욕�
 
 ---
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 세 그룹 비교 구조
@@ -114,3 +117,6 @@ tags: [보편은총, 특별은총, 솔로몬영광, 솔로몬콤플렉스, 욕�
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머물면 이방인 구조
 - [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] — 해석 전환: 보편 은총 → 특별 은총으로의 해석 체계 전환
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-nd-matthew-6-19-24-os-transition|인생의 운영체제를 전환하라]] | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet|진짜 현재는 언제일까?]] →

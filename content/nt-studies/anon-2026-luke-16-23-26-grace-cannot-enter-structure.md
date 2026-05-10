@@ -16,6 +16,9 @@ tags: [누가복음, 부자와나사로, 구렁텅이, 존재의구조, 병뚜�
 
 <a href="https://youtu.be/4ezUd7gm1-E" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 카스마(구렁텅이)의 정체: 존재의 구조 차이
@@ -70,3 +73,6 @@ tags: [누가복음, 부자와나사로, 구렁텅이, 존재의구조, 병뚜�
 - [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] — 자기 의(뽕나무)가 실족의 근원
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머무는 자 = 병뚜껑 닫힌 자
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades|죽음은 실체를 폭로한다]] | [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding|자기 언어로 강제 고정된 심장들]] →

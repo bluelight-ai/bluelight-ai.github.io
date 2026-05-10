@@ -16,6 +16,9 @@ tags: [왕의입성, 벳바게, 베다니, 마지막결정권자, 감람산, 스
 
 <a href="https://youtu.be/fGhgjl79nRE" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 므나 비유의 완성 — 왕이 오신다
@@ -93,3 +96,6 @@ tags: [왕의입성, 벳바게, 베다니, 마지막결정권자, 감람산, 스
 - [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] — 독립 선언: 내가 왕이 되려는 탕자
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 부자 관원: 자기가 기준, 그리스도의 왕 되심 거부
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo|왕이 보이지 않는 시간]] | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias|왕을 알아보지 못하는 이유]] →

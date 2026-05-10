@@ -16,6 +16,9 @@ tags: [팩트vs해석, 근원경험, 정점경험, 아폴뤼미, 진리가찾아
 
 <a href="https://youtu.be/iO1QkpYSw2w" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 팩트 vs 해석
@@ -173,3 +176,6 @@ tags: [팩트vs해석, 근원경험, 정점경험, 아폴뤼미, 진리가찾아
 - [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] — 균열이 그리스도를 보게 함
 - [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] — 약함·신음: 진리가 찾아오는 상태의 구약 원형
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes|새로운 인생으로의 전환 — 네 가지 과정]] | [[nt-studies/anon-2026-eph-1-3-12-great-mindset-special-people|특별한 사람들의 위대한 사고방식]] →

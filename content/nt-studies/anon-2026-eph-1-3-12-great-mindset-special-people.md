@@ -17,6 +17,9 @@ tags: [정체성, 나는누구이고싶은가, 테세우스의배, 세포교체,
 
 ---
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 나는 누구이고 싶은가 — 정체성의 출처 전환
@@ -133,3 +136,6 @@ tags: [정체성, 나는누구이고싶은가, 테세우스의배, 세포교체,
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 자아 유지 장치: "나는 누구인가"에 갇힌 거짓 자아
 - [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] — 탕자: "나는 누구이고 싶은가"를 잘못 설정한 결과
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning|해석이 바뀌면 인생이 달라진다]]

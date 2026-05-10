@@ -16,6 +16,9 @@ tags: [탕자귀환, 큰아들, 자기의, 바리새인, 돌아오지않은탕�
 
 <a href="https://youtu.be/Rxk0ZQOd0kQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 두 아들의 대비
@@ -100,3 +103,6 @@ tags: [탕자귀환, 큰아들, 자기의, 바리새인, 돌아오지않은탕�
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인 vs 세리
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent|굶어죽는 자리에서 각성하다]] | [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero|일하지도 못하고, 빌어먹지도 못하는 인간]] →

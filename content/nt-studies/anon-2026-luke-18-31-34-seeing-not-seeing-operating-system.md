@@ -16,6 +16,9 @@ tags: [수난예고3차, 운영체계OS, 보아도못봄, 비르길, 프라카�
 
 <a href="https://youtu.be/QOLoHB5bee0" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. "말씀이 감추었으므로" 재해석
@@ -106,3 +109,6 @@ tags: [수난예고3차, 운영체계OS, 보아도못봄, 비르길, 프라카�
 - [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] — 이미 와 있는데 못 보는 이유
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible|'맞다'가 '맞다'를 만났을 때]] | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience|다시 보게 하소서]] →

@@ -16,6 +16,9 @@ tags: [부자나사로, 두죽음의문법, 하데스음부, 시금석, 바사�
 
 <a href="https://youtu.be/rwgIgdvK82E" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 두 죽음의 문법적 차이
@@ -87,3 +90,6 @@ tags: [부자나사로, 두죽음의문법, 하데스음부, 시금석, 바사�
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조, 카스마
 - [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] — 밑바닥 각성·비로소 궁핍
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity|자기를 잔치하는 사람 vs 긍휼 아래 엎드리는 사람]] | [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure|은혜가 들어가지 못하는 구조]] →

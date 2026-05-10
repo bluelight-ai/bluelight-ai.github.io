@@ -16,6 +16,9 @@ tags: [낙타바늘귀, 내가맞다, 자기의, 존재기반, 타이거우즈, 
 
 <a href="https://youtu.be/AraOablu9SQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. "내가 맞다" 대 "내가 맞다" — 싸움의 구조
@@ -101,3 +104,6 @@ tags: [낙타바늘귀, 내가맞다, 자기의, 존재기반, 타이거우즈, 
 - [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 자기 의 100→0, 전적 은혜
 - [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] — 큰아들(자기 의)·잔치 거부
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-18-23-higher-standard|자기 기준보다 더 높은 기준이 있다]] | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system|보아도 보지 못하는 이유]] →

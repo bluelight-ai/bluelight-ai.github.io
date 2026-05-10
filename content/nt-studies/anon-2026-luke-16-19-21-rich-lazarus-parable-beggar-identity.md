@@ -16,6 +16,9 @@ tags: [부자나사로, 비유, 자기의, 헬코스, 평양대부흥, 개들, �
 
 <a href="https://youtu.be/cNQ973z2pUI" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 비유로 읽어야 하는 이유
@@ -94,3 +97,6 @@ tags: [부자나사로, 비유, 자기의, 헬코스, 평양대부흥, 개들, �
 - [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] — 1 vs 99·아폴뤼미
 - [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] — 큰아들·자기 의
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name|유일하게 인정받는 의]] | [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades|죽음은 실체를 폭로한다]] →

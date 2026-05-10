@@ -16,6 +16,9 @@ tags: [여리고맹인, 아나블래포, 다시봄, 양심율법목적, 마틴�
 
 <a href="https://youtu.be/40kD82f-GzY" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. ἀναβλέπω — "다시 보다"의 신학적 의미
@@ -106,3 +109,6 @@ tags: [여리고맹인, 아나블래포, 다시봄, 양심율법목적, 마틴�
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인(자기 안에 머뭄) vs 세리
 - [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] — 밑바닥 각성·비로소 궁핍 = 다시 봄의 구조
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system|보아도 보지 못하는 이유]] | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution|내려와야 들어간다]] →

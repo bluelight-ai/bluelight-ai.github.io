@@ -16,6 +16,9 @@ tags: [권위논쟁, 역질문, 자기기준, 분리불안, 생존불안, 기준
 
 <a href="https://youtu.be/IOu3MyNdjAk" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 권위 논쟁의 본질 — 질문이 아닌 공격
@@ -117,3 +120,6 @@ tags: [권위논쟁, 역질문, 자기기준, 분리불안, 생존불안, 기준
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인: 자기 안에 머무는 자
 - [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] — 맹인: 기준 없는 자가 보는 자
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den|말씀에 붙들려 매달리는 곳]] | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision|피할 수 없는 운명적인 충돌]] →

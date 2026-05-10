@@ -16,6 +16,9 @@ tags: [누가복음, 하나님나라, 인자의날, 십자가, 이미와있음, 
 
 <a href="https://youtu.be/uPRppK11d4Y" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### "너희 안에 있느니라" 재해석
@@ -80,3 +83,6 @@ tags: [누가복음, 하나님나라, 인자의날, 십자가, 이미와있음, 
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 재물(세상 것)을 팔아 버리고 하늘의 보화를 얻음
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 땅의 보물 vs 하늘의 보물; 중심축의 전환
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ|문제를 고쳤지만 돌아오지 않은 사람들]] | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross|헛된 줄 알고 버리네]] →

@@ -16,6 +16,9 @@ tags: [삭개오, 샌드위치구조, 이름역설, 율법목적, 나무위오�
 
 <a href="https://youtu.be/flywFcG3pOU" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 샌드위치 구조 — 세 이야기가 한 묶음
@@ -107,3 +110,6 @@ tags: [삭개오, 샌드위치구조, 이름역설, 율법목적, 나무위오�
 - [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — 낙타·바늘귀, 사람 불가·하나님 가능
 - [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 자기 의 100→0, 전적 은혜
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience|다시 보게 하소서]] | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo|왕이 보이지 않는 시간]] →

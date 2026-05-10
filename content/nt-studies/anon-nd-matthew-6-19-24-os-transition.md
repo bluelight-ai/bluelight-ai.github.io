@@ -16,6 +16,9 @@ tags: [마태복음, 산상수훈, 보물, 마음, 눈, 운영체계, 거듭남,
 
 <a href="https://youtu.be/Y4ieULjxx0Q" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 - **보물** = 가치 있다고 판단하여 지속적으로 축적해온 모든 것 (재물·기도·명성 포함)
 - **마음 → 눈 → 몸**: 세 요소는 하나의 시스템으로 연결됨
@@ -51,3 +54,6 @@ tags: [마태복음, 산상수훈, 보물, 마음, 눈, 운영체계, 거듭남,
 - [[nt-studies/]] — 마태복음 산상수훈 (마 5-7장) 관련 문서
 - [[theology/]] — 거듭남, 은혜 교리 관련 문서
 - [[overviews/]] — 보물·마음·눈 주제 종합 페이지 (추후 생성 권장)
+
+---
+← [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force|누구도 이기지 못하는 약함]] | [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace|솔로몬의 영광보다 위대한 특별한 은총]] →

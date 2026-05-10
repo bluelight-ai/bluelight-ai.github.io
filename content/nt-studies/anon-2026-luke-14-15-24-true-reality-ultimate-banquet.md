@@ -16,6 +16,9 @@ tags: [누가복음, 큰잔치비유, 궁극, 현실, 세속화, 초청, 하나�
 
 <a href="https://youtu.be/OGUZsdiPz1c" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 - **세 사람의 거절**: 밭·소·결혼 — 악한 이유가 아니라 합리적·현실적 이유
@@ -61,3 +64,6 @@ tags: [누가복음, 큰잔치비유, 궁극, 현실, 세속화, 초청, 하나�
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머무는 자 vs 바깥을 향해 나가는 자
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 자기 기준 vs 하나님 기준
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의의 해체와 하나님의 의: 시리즈 종합
+
+---
+← [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace|솔로몬의 영광보다 위대한 특별한 은총]] | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant|값을 치르는 사람들]] →

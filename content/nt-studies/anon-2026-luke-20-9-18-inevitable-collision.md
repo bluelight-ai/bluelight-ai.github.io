@@ -16,6 +16,9 @@ tags: [포도원비유, 소유권, 청지기, 머릿돌, 깨어짐, 소멸, 건�
 
 <a href="https://youtu.be/ohKrV-T5U60" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 포도원 비유 알레고리
@@ -78,3 +81,6 @@ tags: [포도원비유, 소유권, 청지기, 머릿돌, 깨어짐, 소멸, 건�
 - [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] — "내가 맞다"=부자, 존재 기반 버리기
 - [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] — 락, 자기 기준으로 잠긴 심장
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight|내 기준이 나를 못 보게 한다]] | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging|가이사의 형상, 하나님의 형상]] →

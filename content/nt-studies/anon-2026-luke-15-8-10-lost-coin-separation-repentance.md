@@ -16,6 +16,9 @@ tags: [잃은드라크마, 죄의본질, 분리, 회개재정의, 찾을때까�
 
 <a href="https://youtu.be/5D2LDD7vlHk" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 드라크마 = 사랑의 증표
@@ -78,3 +81,6 @@ tags: [잃은드라크마, 죄의본질, 분리, 회개재정의, 찾을때까�
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조 (99의 구조)
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인 vs 세리, 자기 안에 머무는 자
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart|아흔아홉에게 없는 한 가지]] | [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent|굶어죽는 자리에서 각성하다]] →

@@ -16,6 +16,9 @@ tags: [므나비유, 왕부재, 세부류, 코람데오, 수건죽은믿음, 인
 
 <a href="https://youtu.be/DyI7w-v_Rs0" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 왕이 보이지 않는 시간 = 우리 인생
@@ -92,3 +95,6 @@ tags: [므나비유, 왕부재, 세부류, 코람데오, 수건죽은믿음, 인
 - [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] — 신랑 없는 시간, 갈망, 보험 신앙 비판
 - [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] — 무리·제자·종 구분, 소금의 맛
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution|내려와야 들어간다]] | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority|마지막 결정권자가 누구인가]] →

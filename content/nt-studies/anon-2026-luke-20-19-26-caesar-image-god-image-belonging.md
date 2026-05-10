@@ -16,6 +16,9 @@ tags: [프레임전복, 데나리온신학, 형상소속, 현대의가이사, �
 
 <a href="https://youtu.be/A4uSUVJggMQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 프레임 씌우기 vs 프레임 전복
@@ -136,3 +139,6 @@ tags: [프레임전복, 데나리온신학, 형상소속, 현대의가이사, �
 - [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] — 돈=자기 의, 자기 우상숭배
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마음의 OS 전환, 보물·형상
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision|피할 수 없는 운명적인 충돌]] | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes|새로운 인생으로의 전환 — 네 가지 과정]] →

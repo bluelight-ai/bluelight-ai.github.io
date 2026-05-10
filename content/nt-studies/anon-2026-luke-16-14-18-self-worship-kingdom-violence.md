@@ -16,6 +16,9 @@ tags: [자기의, 자기우상숭배, 침입, 의의기준전환, 돈철학, 율
 
 <a href="https://youtu.be/bvUyWfopgAQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. "돈" = 자기 의
@@ -107,3 +110,6 @@ tags: [자기의, 자기우상숭배, 침입, 의의기준전환, 돈철학, 율
 - [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] — 큰아들·자기 의·잔치
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인 vs 세리
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ|작은 것을 버려야 큰 것을 얻는다]] | [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name|유일하게 인정받는 의]] →

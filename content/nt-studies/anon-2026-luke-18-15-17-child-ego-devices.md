@@ -16,6 +16,9 @@ tags: [누가복음, 어린아이, 자아유지장치, 거짓자아, 하나님�
 
 <a href="https://youtu.be/VkklWhLoL0w" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 누가복음 18장의 점층 구조
@@ -67,3 +70,6 @@ tags: [누가복음, 어린아이, 자아유지장치, 거짓자아, 하나님�
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 소유권 포기, 그리스도를 주인으로 받아들임
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마음의 OS 전환, 두 주인 문제
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward|삶에게 질문받는 존재]] | [[nt-studies/anon-2026-luke-18-18-23-higher-standard|자기 기준보다 더 높은 기준이 있다]] →

@@ -16,6 +16,9 @@ tags: [누가복음, 실족, 자기의, 뽕나무, 겨자씨믿음, 무익한종
 
 <a href="https://youtu.be/-A6oE8CCBpY" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 실족의 진짜 원인: 뽕나무 = 자기 의
@@ -83,3 +86,6 @@ tags: [누가복음, 실족, 자기의, 뽕나무, 겨자씨믿음, 무익한종
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머무는 자 = 자기 의로 자기 세계 공고화
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 자기 의를 팔아 가난한 자가 됨
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding|자기 언어로 강제 고정된 심장들]] | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ|문제를 고쳤지만 돌아오지 않은 사람들]] →

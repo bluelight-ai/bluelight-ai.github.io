@@ -16,6 +16,9 @@ tags: [출애굽기, 여호와, 신음소리, 약함, 측은지심, 거울신경
 
 <a href="https://youtu.be/zlu1f3fhEbc" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 이름 공개의 계기: 신음소리
@@ -77,3 +80,6 @@ tags: [출애굽기, 여호와, 신음소리, 약함, 측은지심, 거울신경
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 자아 유지 장치로 강해지려는 인간 vs 받아들이는 어린아이
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머무는 강함(바리새인) vs 하나님 앞에 열리는 세리
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+[[nt-studies/anon-nd-matthew-6-19-24-os-transition|인생의 운영체제를 전환하라]] →

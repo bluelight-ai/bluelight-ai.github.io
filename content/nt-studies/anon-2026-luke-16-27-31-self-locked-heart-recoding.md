@@ -16,6 +16,9 @@ tags: [누가복음, 부자와나사로, 락, 자기언어, 재코딩, 균열, �
 
 <a href="https://youtu.be/F1s2XxOs5aQ" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 락(Lock): 자기 프로그래밍의 완성
@@ -85,3 +88,6 @@ tags: [누가복음, 부자와나사로, 락, 자기언어, 재코딩, 균열, �
 - [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] — 자기 의(뽕나무) = 락의 내용물
 - [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] — 자아 유지 장치 = 락을 강화하는 시스템
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure|은혜가 들어가지 못하는 구조]] | [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree|당신이 매 번 실족하는 이유]] →

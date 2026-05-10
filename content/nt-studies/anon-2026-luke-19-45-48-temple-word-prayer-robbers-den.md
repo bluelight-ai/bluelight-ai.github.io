@@ -16,6 +16,9 @@ tags: [성전정화, 만민기도하는집, 강도의소굴, 이사야56장, 예
 
 <a href="https://youtu.be/KIjR8TiNS9Y" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 두 구약 본문 합성
@@ -98,3 +101,6 @@ tags: [성전정화, 만민기도하는집, 강도의소굴, 이사야56장, 예
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 바리새인: 자기 안에 머무는 자, 껍데기 안의 제왕
 - [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] — 자기 의 100→0, 전적 은혜
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias|왕을 알아보지 못하는 이유]] | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight|내 기준이 나를 못 보게 한다]] →

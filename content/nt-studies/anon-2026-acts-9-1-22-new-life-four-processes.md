@@ -14,6 +14,9 @@ tags: [바울회심, 네가지전환, 정점경험, 의미통합, 해석체계, 
 ## 요약
 예수님을 믿는다고 하면서 왜 바뀌지 않는가? 새로운 인생으로의 전환에는 네 가지 과정이 있다: ①정점 경험(그리스도를 인격적으로 만남), ②의미의 통합, ③해석 체계의 전환, ④삶에 존재하는 방식의 전환. 바울의 회심(행 9장)은 이 네 과정의 전형이며, 이 변화의 주어는 내가 아니라 내 안에서 일하시는 그리스도다.
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 왜 믿는데 바뀌지 않는가?
@@ -167,3 +170,6 @@ tags: [바울회심, 네가지전환, 정점경험, 의미통합, 해석체계, 
 - [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] — 귀환: 존재 방식의 전환
 - [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] — 약함·신음이 하나님의 이름을 끌어냄
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging|가이사의 형상, 하나님의 형상]] | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning|해석이 바뀌면 인생이 달라진다]] →

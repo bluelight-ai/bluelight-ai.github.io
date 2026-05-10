@@ -16,6 +16,9 @@ tags: [누가복음, 나병환자, 귀환, 사마리아인, 구원, 문제해결
 
 <a href="https://youtu.be/faI5KYxDtFY" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **4단계 — 전환** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 귀환 (歸還) — 본문의 진짜 주제
@@ -82,3 +85,6 @@ tags: [누가복음, 나병환자, 귀환, 사마리아인, 구원, 문제해결
 - [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] — 자기 안에 머무는 자(9명) vs 바깥으로 나가는 자(사마리아인)
 - [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] — 재물을 팔아 가난한 자가 됨 = 문제 해결이 아닌 귀환
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree|당신이 매 번 실족하는 이유]] | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen|이미 와 있는데 못 보는 이유]] →

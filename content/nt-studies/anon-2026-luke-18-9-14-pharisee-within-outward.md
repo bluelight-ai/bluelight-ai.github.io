@@ -16,6 +16,9 @@ tags: [누가복음, 바리새인, 세리, 자기의, 자기안에머묾, 하나
 
 <a href="https://youtu.be/f4dFroFh0EY" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **1단계 — 독립 선언** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 두 종류의 인간
@@ -67,3 +70,6 @@ tags: [누가복음, 바리새인, 세리, 자기의, 자기안에머묾, 하나
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 소유권 포기, 머릿돌과의 충돌
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 마음의 OS 전환, 두 주인 문제
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing|세상에서 믿음을 보겠느냐]] | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices|인간의 자아 유지 장치들]] →

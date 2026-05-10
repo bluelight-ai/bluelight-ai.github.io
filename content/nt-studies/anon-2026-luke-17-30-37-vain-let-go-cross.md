@@ -16,6 +16,9 @@ tags: [누가복음, 인자의날, 데려감, 버려짐, 롯의처, 십자가, �
 
 <a href="https://youtu.be/zoKkZKqDp_s" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **3단계 — 각성** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 인자의 날 신학
@@ -75,3 +78,6 @@ tags: [누가복음, 인자의날, 데려감, 버려짐, 롯의처, 십자가, �
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 소유권(붙잡음)을 내려놓고 머릿돌 위에 깨어짐
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] — 땅에 쌓은 보물(붙잡은 것)을 버리고 하늘에 쌓음
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 포기와 하나님 주권 종합
+
+---
+← [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen|이미 와 있는데 못 보는 이유]] | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing|세상에서 믿음을 보겠느냐]] →

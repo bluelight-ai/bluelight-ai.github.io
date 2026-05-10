@@ -16,6 +16,9 @@ tags: [예루살렘통곡, 확증편향, 벳파게옛이스라엘, 베다니새�
 
 <a href="https://youtu.be/3SbGP1ffnag" target="_blank">▶ 영상 보기</a>
 
+> [!info] 탕자의 4단계 여정
+> **2단계 — 충돌** — [[overviews/theology-map|전체 지도 보기]]
+
 ## 핵심 주장
 
 ### 1. 벳파게 = 첫 번째 열매 = 옛 이스라엘
@@ -107,3 +110,6 @@ tags: [예루살렘통곡, 확증편향, 벳파게옛이스라엘, 베다니새�
 - [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] — ἀναβλέπω(다시 봄), 여리고, 양심의 목적
 - [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] — 은혜가 들어가지 못하는 구조
 - [[overviews/self-surrender-and-god-as-lord]] — 자기 의 해체와 하나님의 의 종합
+
+---
+← [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority|마지막 결정권자가 누구인가]] | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den|말씀에 붙들려 매달리는 곳]] →
