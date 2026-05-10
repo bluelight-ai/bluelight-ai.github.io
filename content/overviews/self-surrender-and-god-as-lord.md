@@ -376,6 +376,19 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 
 ---
 
+## 주제별 개요 페이지 (Thematic Overviews)
+
+이 종합 페이지의 특정 주제를 더 깊이 추적하는 별도 개요 페이지들:
+
+| 주제 | 핵심 물음 | 링크 |
+|---|---|---|
+| 정체성 신학 | 나는 누구인가 → 누구의 것인가 → 누구이고 싶은가 | [[overviews/identity-who-am-i]] |
+| 시간·영생 신학 | 영생 = 시간이 멈춤 / 내일이 없는 자 | [[overviews/time-and-eternity]] |
+| 은총의 계층 | 솔로몬 < 보편 은총 < 특별 은총 | [[overviews/common-and-special-grace]] |
+| 해석·운영 체계 | 같은 팩트, 다른 해석이 다른 인생을 만든다 | [[overviews/interpretation-and-os]] |
+
+---
+
 ## 참고 문서 (전체)
 - [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]]
 - [[nt-studies/anon-nd-matthew-6-19-24-os-transition]]
