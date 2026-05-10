@@ -82,6 +82,12 @@
 | 34 | 눅 20:9-18 | 피할 수 없는 충돌, 머릿돌, 소유권·청지기 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
 | 35 | 눅 20:19-26 | 가이사의 형상 vs 하나님의 형상, 데나리온 신학 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
 
+### 사도행전
+
+| # | 본문 | 제목 | 핵심 개념 |
+|---|---|---|---|
+| 36 | 행 9:1-22 | 새로운 인생으로의 전환 — 네 가지 과정 (해석 체계의 전환, 삶에 존재하는 방식의 전환) | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
+
 ### 종합 페이지
 
 | # | 제목 | 링크 |
