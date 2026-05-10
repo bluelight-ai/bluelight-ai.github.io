@@ -92,7 +92,7 @@
 
 | # | 제목 | 링크 |
 |---|---|---|
-| 36 | 자기 의의 해체와 하나님의 의 (36편 전체 종합) | [[overviews/self-surrender-and-god-as-lord]] |
+| 37 | 자기 의의 해체와 하나님의 의 (37편 전체 종합) | [[overviews/self-surrender-and-god-as-lord]] |
 
 ---
 
