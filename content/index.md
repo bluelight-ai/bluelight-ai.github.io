@@ -30,7 +30,7 @@ title: "말씀클리닉 성경연구 Wiki"
 ### 처음 읽는다면
 - [[overviews/self-surrender-and-god-as-lord]] — 39편 전체 요약 (30분 안에 전체 파악)
 - [[overviews/reading-path]] — 상황별·주제별 추천 읽기 경로
-- [[overviews/theology-map]] — 40편의 신학 구조와 배치
+- [[overviews/theology-map]] — 39편의 신학 구조와 배치
 
 ### 주제가 있다면
 - [[overviews/identity-who-am-i]] — 나는 누구인가·누구의 것인가·누구이고 싶은가
