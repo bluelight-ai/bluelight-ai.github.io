@@ -22,47 +22,47 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 
 ## 전체 설교 목록 (본문 순서)
 
-| 본문 | 핵심 개념 | 위키 페이지 |
-|---|---|---|
-| 출 6:1-7 | 신음소리(약함)가 하나님의 이름을 끌어냄 | [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] |
-| 마 6:19-24 | 마음의 OS 전환 — 땅의 보물 vs 하늘의 보물 | [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] |
-| 마 6:25-34 | 솔로몬의 영광보다 위대한 특별한 은총 — 인간 문명(솔로몬) < 보편 은총 < 특별 은총, 영생=시간이 멈춤, 엘리야-까마귀-사르밧 구조 | [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace]] |
-| 눅 14:15-24 | 진짜 현실은 잔치 — 합리적 거절, 궁극을 현실로 붙잡음 | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] |
-| 눅 14:25-35 | 무리·제자·종의 구분 — 소금의 맛, 에비슨·로제타 홀 | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] |
-| 눅 15:1-7 | 아폴뤼미(상함)=1 vs 카탈레이포(놔둠)=99, 목자의 명예 | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] |
-| 눅 15:8-10 | 죄=분리, 회개=찾아짐, 드라크마=사랑의 증표 | [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] |
-| 눅 15:11-19 | 독립 선언→소진→흉년→밑바닥 각성·비로소 궁핍 | [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] |
-| 눅 15:20-32 | 돌아온 탕자·돌아오지 않은 큰아들(자기 의)·δουλεύω | [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] |
-| 눅 16:1-7 | 불의한 청지기 — 자기 의 100→0, 신인협동설 비판, 전적 은혜 | [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] |
-| 눅 16:8-14 | 작은 것(자기 의) 버려야 큰 것(그리스도 의) — σκύβαλα(배설물) | [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ]] |
-| 눅 16:14-18 (1) | 돈=자기 의, 자기 우상숭배, βιάζεται(침입=자기 의 파괴) | [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] |
-| 눅 16:14-18 (2) | 18절 간음 비유 — 아내=율법 본질, 두 형태의 간음, 그리스도의 이름 | [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name]] |
-| 눅 16:19-21 | 부자(자기 잔치)·나사로(거지임을 앎)·ἕλκος·개들·평양 대부흥 | [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] |
-| 눅 16:22-23 | 두 죽음의 문법, ᾅδης=내면의 죄 실체, βάσανος=시금석, 곰팡이 | [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades]] |
-| 눅 16:23-26 | 존재의 구조 — 병뚜껑, 은혜가 들어가지 못함, 카스마 | [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] |
-| 눅 16:27-31 | 락(Lock) — 자기 언어로 잠긴 심장, 균열, 재코딩 | [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] |
-| 눅 17:1-10 | 뽕나무=자기 의, 겨자씨 믿음=자기 부인, 무익한 종 | [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] |
-| 눅 17:11-19 | 귀환 — 문제 해결 ≠ 귀환, 예수님이 유일한 귀환의 자리 | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] |
-| 눅 17:20-30 | 이미 와 있는 나라를 못 보는 이유 — 십자가 통과 필요 | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] |
-| 눅 17:30-37 | 무엇을 붙잡느냐 — 헛된 것을 버리고 그리스도를 붙잡음 | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] |
-| 눅 18:1-8 | 과부=신랑 없음, 결핍과 갈망, 금식 신학, 보험 신앙 비판 | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] |
-| 눅 18:9-14 | 자기 안에 머무는 자 vs 바깥을 향해 나가는 자 | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] |
-| 눅 18:15-17 | 자아 유지 장치 — 어린아이처럼 받아들임, 거짓 자아 | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] |
-| 눅 18:18-23 | 자기 기준 vs 하나님 기준 — 자기 의를 팔아라 | [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] |
-| 눅 18:24-30 | "내가 맞다"=부자, 낙타·바늘귀, 존재 기반 버리기, 타이거 우즈·존 고트먼 | [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] |
-| 눅 18:31-34 | 보아도 못 봄 — 자기 운영 체계(OS), 비르길·프라카슈, 십자가=OS 전환 | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] |
-| 눅 18:35-43 | 다시 봄(ἀναβλέπω) — 여리고=무너짐, 양심의 목적, 마틴 루터 | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] |
-| 눅 19:1-10 | 삭개오 이름 역설, 샌드위치 구조(부자관원-맹인-삭개오), 율법의 목적, 존재의 혁명 | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] |
-| 눅 19:11-27 | 왕이 보이지 않는 시간, 세 부류, 수건=죽은 믿음, 코람데오 | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] |
-| 눅 19:28-40 | 마지막 결정권자, 벳파게(열매 없음)·베다니(열매 있음), 낮은 왕·십자가 | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] |
-| 눅 19:41-44 | 확증 편향, 방문의 때(ἐπισκοπή), 금이 가는 삶, 에이레네 | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] |
-| 눅 19:45-48 | 강도의 소굴=도피처, 기도의 정의(ἐκκρεμάννυμι), 부흥=말씀 운동 | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] |
-| 눅 20:1-8 | 내 기준이 나를 못 보게 함 — 분리 불안, 기준 붕괴=십자가, 이끌려가는 삶 | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] |
-| 눅 20:9-18 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
-| 눅 20:19-26 | 가이사의 형상 vs 하나님의 형상 — 데나리온 신학, 현대의 가이사(알고리즘), 소속의 증거 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
-| 행 9:1-22 | 새로운 인생으로의 전환 — 네 가지 과정: 정점 경험·의미 통합·해석 체계 전환·존재 방식 전환 | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
-| 행 9:10-22 | 해석이 바뀌면 인생이 달라진다 — 근원 경험 심화(헬렌 켈러·아폴뤼미·균열), 의미의 통합(김선도 감독 5분의 기적), 메타노이아 | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] |
-| 엡 1:3-12 | 위대한 사고방식 3가지 — 나는 누구이고 싶은가(테세우스의 배·προορίζω 울타리), 길이 먼저(경부고속도로·요 14:6), 기쁨과 설렘(εὐδοκία·에덴→예루살렘) | [[nt-studies/anon-2026-eph-1-3-12-great-mindset-special-people]] |
+| 본문 | 제목 | 핵심 개념 | 위키 페이지 |
+|---|---|---|---|
+| 출 6:1-7 | 누구도 이기지 못하는 약함 | 신음소리(약함)가 하나님의 이름을 끌어냄 | [[ot-studies/anon-2026-exodus-6-1-7-weakness-strongest-force]] |
+| 마 6:19-24 | 인생의 운영체제를 전환하라 | 마음의 OS 전환 — 땅의 보물 vs 하늘의 보물 | [[nt-studies/anon-nd-matthew-6-19-24-os-transition]] |
+| 마 6:25-34 | 솔로몬의 영광보다 위대한 특별한 은총 | 솔로몬의 영광보다 위대한 특별한 은총 — 인간 문명(솔로몬) < 보편 은총 < 특별 은총, 영생=시간이 멈춤, 엘리야-까마귀-사르밧 구조 | [[nt-studies/anon-2026-matt-6-25-34-solomon-glory-special-grace]] |
+| 눅 14:15-24 | 진짜 현재는 언제일까? | 진짜 현실은 잔치 — 합리적 거절, 궁극을 현실로 붙잡음 | [[nt-studies/anon-2026-luke-14-15-24-true-reality-ultimate-banquet]] |
+| 눅 14:25-35 | 값을 치르는 사람들 | 무리·제자·종의 구분 — 소금의 맛, 에비슨·로제타 홀 | [[nt-studies/anon-2026-luke-14-25-35-cost-calculation-disciple-servant]] |
+| 눅 15:1-7 | 아흔아홉에게 없는 한 가지 | 아폴뤼미(상함)=1 vs 카탈레이포(놔둠)=99, 목자의 명예 | [[nt-studies/anon-2026-luke-15-1-7-lost-sheep-contrite-heart]] |
+| 눅 15:8-10 | 찾을 때까지 찾으신다 | 죄=분리, 회개=찾아짐, 드라크마=사랑의 증표 | [[nt-studies/anon-2026-luke-15-8-10-lost-coin-separation-repentance]] |
+| 눅 15:11-19 | 굶어죽는 자리에서 각성하다 | 독립 선언→소진→흉년→밑바닥 각성·비로소 궁핍 | [[nt-studies/anon-2026-luke-15-11-19-prodigal-independence-descent]] |
+| 눅 15:20-32 | 돌아오지 않은 큰 아들 | 돌아온 탕자·돌아오지 않은 큰아들(자기 의)·δουλεύω | [[nt-studies/anon-2026-luke-15-20-32-return-elder-self-righteousness]] |
+| 눅 16:1-7 | 일하지도 못하고 빌어먹지도 못하는 인간 | 불의한 청지기 — 자기 의 100→0, 신인협동설 비판, 전적 은혜 | [[nt-studies/anon-2026-luke-16-1-7-unjust-steward-self-righteousness-zero]] |
+| 눅 16:8-14 | 작은 것을 버려야 큰 것을 얻는다 | 작은 것(자기 의) 버려야 큰 것(그리스도 의) — σκύβαλα(배설물) | [[nt-studies/anon-2026-luke-16-8-14-small-great-self-righteousness-christ]] |
+| 눅 16:14-18 (1) | 의의 기준이 바뀌는 순간 | 돈=자기 의, 자기 우상숭배, βιάζεται(침입=자기 의 파괴) | [[nt-studies/anon-2026-luke-16-14-18-self-worship-kingdom-violence]] |
+| 눅 16:14-18 (2) | 유일하게 인정받는 의 | 18절 간음 비유 — 아내=율법 본질, 두 형태의 간음, 그리스도의 이름 | [[nt-studies/anon-2026-luke-16-14-18b-divorce-law-essence-christ-name]] |
+| 눅 16:19-21 | 자기를 잔치하는 사람 vs 긍휼 아래 엎드리는 사람 | 부자(자기 잔치)·나사로(거지임을 앎)·ἕλκος·개들·평양 대부흥 | [[nt-studies/anon-2026-luke-16-19-21-rich-lazarus-parable-beggar-identity]] |
+| 눅 16:22-23 | 죽음은 실체를 폭로한다 | 두 죽음의 문법, ᾅδης=내면의 죄 실체, βάσανος=시금석, 곰팡이 | [[nt-studies/anon-2026-luke-16-22-23-death-reveals-reality-hades]] |
+| 눅 16:23-26 | 은혜가 들어가지 못하는 구조 | 존재의 구조 — 병뚜껑, 은혜가 들어가지 못함, 카스마 | [[nt-studies/anon-2026-luke-16-23-26-grace-cannot-enter-structure]] |
+| 눅 16:27-31 | 자기 언어로 강제 고정된 심장들 | 락(Lock) — 자기 언어로 잠긴 심장, 균열, 재코딩 | [[nt-studies/anon-2026-luke-16-27-31-self-locked-heart-recoding]] |
+| 눅 17:1-10 | 당신이 매 번 실족하는 이유 | 뽕나무=자기 의, 겨자씨 믿음=자기 부인, 무익한 종 | [[nt-studies/anon-2026-luke-17-1-10-self-righteousness-mulberry-tree]] |
+| 눅 17:11-19 | 문제를 고쳤지만 돌아오지 않은 사람들 | 귀환 — 문제 해결 ≠ 귀환, 예수님이 유일한 귀환의 자리 | [[nt-studies/anon-2026-luke-17-11-19-return-homecoming-christ]] |
+| 눅 17:20-30 | 이미 와 있는데 못 보는 이유 | 이미 와 있는 나라를 못 보는 이유 — 십자가 통과 필요 | [[nt-studies/anon-2026-luke-17-20-30-kingdom-already-here-unseen]] |
+| 눅 17:30-37 | 헛된 줄 알고 버리네 | 무엇을 붙잡느냐 — 헛된 것을 버리고 그리스도를 붙잡음 | [[nt-studies/anon-2026-luke-17-30-37-vain-let-go-cross]] |
+| 눅 18:1-8 | 세상에서 믿음을 보겠느냐 | 과부=신랑 없음, 결핍과 갈망, 금식 신학, 보험 신앙 비판 | [[nt-studies/anon-2026-luke-18-1-8-widow-judge-bridegroom-longing]] |
+| 눅 18:9-14 | 삶에게 질문받는 존재 | 자기 안에 머무는 자 vs 바깥을 향해 나가는 자 | [[nt-studies/anon-2026-luke-18-9-14-pharisee-within-outward]] |
+| 눅 18:15-17 | 인간의 자아 유지 장치들 | 자아 유지 장치 — 어린아이처럼 받아들임, 거짓 자아 | [[nt-studies/anon-2026-luke-18-15-17-child-ego-devices]] |
+| 눅 18:18-23 | 자기 기준보다 더 높은 기준이 있다 | 자기 기준 vs 하나님 기준 — 자기 의를 팔아라 | [[nt-studies/anon-2026-luke-18-18-23-higher-standard]] |
+| 눅 18:24-30 | 맞다가 맞다를 만났을 때 | "내가 맞다"=부자, 낙타·바늘귀, 존재 기반 버리기, 타이거 우즈·존 고트먼 | [[nt-studies/anon-2026-luke-18-24-30-camel-needle-self-right-impossible]] |
+| 눅 18:31-34 | 보아도 보지 못하는 이유 | 보아도 못 봄 — 자기 운영 체계(OS), 비르길·프라카슈, 십자가=OS 전환 | [[nt-studies/anon-2026-luke-18-31-34-seeing-not-seeing-operating-system]] |
+| 눅 18:35-43 | 다시 보게 하소서 | 다시 봄(ἀναβλέπω) — 여리고=무너짐, 양심의 목적, 마틴 루터 | [[nt-studies/anon-2026-luke-18-35-43-blind-jericho-see-again-conscience]] |
+| 눅 19:1-10 | 내려와야 들어간다 | 삭개오 이름 역설, 샌드위치 구조(부자관원-맹인-삭개오), 율법의 목적, 존재의 혁명 | [[nt-studies/anon-2026-luke-19-1-10-zacchaeus-descent-grace-revolution]] |
+| 눅 19:11-27 | 왕이 보이지 않는 시간 | 왕이 보이지 않는 시간, 세 부류, 수건=죽은 믿음, 코람데오 | [[nt-studies/anon-2026-luke-19-11-27-minas-absent-king-coram-deo]] |
+| 눅 19:28-40 | 마지막 결정권자가 누구인가 | 마지막 결정권자, 벳파게(열매 없음)·베다니(열매 있음), 낮은 왕·십자가 | [[nt-studies/anon-2026-luke-19-28-40-king-entry-final-authority]] |
+| 눅 19:41-44 | 왕을 알아보지 못하는 이유 | 확증 편향, 방문의 때(ἐπισκοπή), 금이 가는 삶, 에이레네 | [[nt-studies/anon-2026-luke-19-41-44-weeping-city-confirmation-bias]] |
+| 눅 19:45-48 | 말씀에 붙들려 매달리는 곳 | 강도의 소굴=도피처, 기도의 정의(ἐκκρεμάννυμι), 부흥=말씀 운동 | [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] |
+| 눅 20:1-8 | 내 기준이 나를 못 보게 한다 | 내 기준이 나를 못 보게 함 — 분리 불안, 기준 붕괴=십자가, 이끌려가는 삶 | [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] |
+| 눅 20:9-18 | 피할 수 없는 운명적인 충돌 | 소유권 탈취 — 머릿돌과의 피할 수 없는 충돌 | [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] |
+| 눅 20:19-26 | 가이사의 형상 하나님의 형상 | 가이사의 형상 vs 하나님의 형상 — 데나리온 신학, 현대의 가이사(알고리즘), 소속의 증거 | [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] |
+| 행 9:1-22 | 새로운 인생으로의 전환 | 새로운 인생으로의 전환 — 네 가지 과정: 정점 경험·의미 통합·해석 체계 전환·존재 방식 전환 | [[nt-studies/anon-2026-acts-9-1-22-new-life-four-processes]] |
+| 행 9:10-22 | 해석이 바뀌면 인생이 달라진다 | 해석이 바뀌면 인생이 달라진다 — 근원 경험 심화(헬렌 켈러·아폴뤼미·균열), 의미의 통합(김선도 감독 5분의 기적), 메타노이아 | [[nt-studies/anon-2026-acts-9-10-22-interpretation-life-peak-meaning]] |
+| 엡 1:3-12 | 특별한 사람들의 위대한 사고방식 | 위대한 사고방식 3가지 — 나는 누구이고 싶은가(테세우스의 배·προορίζω 울타리), 길이 먼저(경부고속도로·요 14:6), 기쁨과 설렘(εὐδοκία·에덴→예루살렘) | [[nt-studies/anon-2026-eph-1-3-12-great-mindset-special-people]] |
 
 ---
 
@@ -105,7 +105,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 - **표현 형식**:
 
 | 형식 | 본문 | 설명 |
-|---|---|---|
+|---|---|---|---|
 | 내가 맞다 | 눅 18:24-30 | 부자의 본질 — 내가 맞다는 것이 많을수록 하나님 나라와 멀어짐 |
 | 자기 잔치 | 눅 16:19 | 자기 잘난 맛으로 사는 것 — 자주색 옷·세마포로 감춤 |
 | 자기 우상숭배 | 눅 16:14 | φιλάργυρος=돈 사랑=자기 의 사랑 |
@@ -146,7 +146,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 ### 자기 의 vs 그리스도의 의
 
 | | 자기 의 | 그리스도의 의 |
-|---|---|---|
+|---|---|---|---|
 | 비유 | 음식물 쓰레기 (눅 16:14-18b) | 귀한 선물 |
 | 바울 표현 | σκύβαλα (배설물, 눅 16:8-14) | 그리스도를 얻음 |
 | 이름 | 내 이름 = 거절 | 그리스도의 이름 = 입성 |
@@ -172,7 +172,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 
 ### 두 죽음의 문법
 | | 나사로 | 부자 |
-|---|---|---|
+|---|---|---|---|
 | 이 세상에서 | 말씀(부스러기) 받아먹음 → 헌대(실체) 드러남 | 자기 의로 감추며 잔치 → 실체 한 번도 안 드러남 |
 | 죽음의 문법 | 부정사 (전환·목적) | 단순 과거 (종결·확정) |
 | 죽음의 기능 | 실체 그대로 언약의 심장부로 전환 | 숨겼던 실체가 영원히 확정 |
@@ -183,7 +183,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 - **두 갈래의 지명 신학**:
 
 | | 벳바게(벳파게) | 베다니 |
-|---|---|---|
+|---|---|---|---|
 | 의미 | 먹을 수 없는 첫 무화과 = 옛 이스라엘 | 두 번째 무화과(먹을 수 있음) = 새 공동체 |
 | 신학적 의미 | 열매 없음·생명 없음 (왕 거부) | 열매 있음·생명 있음 (왕 받아들임) |
 | 구약 병행 | 에발산 (불순종·저주) | 그리심산 (순종·축복) |
@@ -343,7 +343,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 ## 세 부류의 인간 (눅 16:19-21 구조)
 
 | 부류 | 상태 | 결과 |
-|---|---|---|
+|---|---|---|---|
 | **부자 (바리새인)** | 자기 의로 자기를 잔치함 — 잃은 적 없다고 여김 | 자기 맞음을 끝까지 붙잡음 → 음부 확정 |
 | **나사로 (세리·탕자)** | 거지임을 앎 — 말씀(부스러기) 받아먹음 → ἕλκος | 실체 이미 드러남 → 다시 봄 → 하나님 나라 |
 | **개들 (형식주의자)** | 회개했다 죄의 자리로 돌아가 핥아 먹음 | 자기 운영 체계 안으로 다시 잠김 |
@@ -381,7 +381,7 @@ tags: [자기의, 자기포기, 하나님주권, 자기주인됨, 청지기, 거
 이 종합 페이지의 특정 주제를 더 깊이 추적하는 별도 개요 페이지들:
 
 | 주제 | 핵심 물음 | 링크 |
-|---|---|---|
+|---|---|---|---|
 | 정체성 신학 | 나는 누구인가 → 누구의 것인가 → 누구이고 싶은가 | [[overviews/identity-who-am-i]] |
 | 시간·영생 신학 | 영생 = 시간이 멈춤 / 내일이 없는 자 | [[overviews/time-and-eternity]] |
 | 은총의 계층 | 솔로몬 < 보편 은총 < 특별 은총 | [[overviews/common-and-special-grace]] |
