@@ -105,6 +105,12 @@
 | 42 | 시간·영생 신학: 시간이 멈춤 = 영생 | [[overviews/time-and-eternity]] |
 | 43 | 은총의 계층: 보편 은총 vs 특별 은총 | [[overviews/common-and-special-grace]] |
 | 44 | 해석 체계·운영 체계 신학: 같은 팩트, 다른 해석 | [[overviews/interpretation-and-os]] |
+| 45 | 신학 지도: 40편 설교의 4단계 신학 구조와 흐름 | [[overviews/theology-map]] |
+| 46 | 읽기 경로: 상황별·주제별 추천 순서 | [[overviews/reading-path]] |
+| 47 | 자기 진단 카드: 주제별 정리 (23개 질문) | [[overviews/self-diagnosis-cards]] |
+| 48 | 원어 신학 용어 사전: 이 시리즈의 재해석 | [[overviews/greek-terms-glossary]] |
+| 49 | 예화·비유 색인: 설교에 사용된 모든 예화 목록 | [[overviews/illustrations-index]] |
+| 50 | 주제별 색인: 태그·키워드로 찾기 | [[overviews/topic-index]] |
 
 ---
 
