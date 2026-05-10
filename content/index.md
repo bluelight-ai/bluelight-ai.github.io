@@ -39,6 +39,7 @@
 - [[nt-studies/anon-2026-luke-19-45-48-temple-word-prayer-robbers-den]] — 누가복음 19:45-48 강해: 말씀에 붙들려 매달리는 곳(ἐκκρεμάννυμι), 강도의 소굴(도피처), 기도의 정의, 말씀 운동
 - [[nt-studies/anon-2026-luke-20-1-8-self-standard-blocks-sight]] — 누가복음 20:1-8 강해: 내 기준이 나를 못 보게 한다, 분리 불안·인정 기준의 기원, 기준 붕괴=십자가, 이끌려가는 삶
 - [[nt-studies/anon-2026-luke-20-9-18-inevitable-collision]] — 누가복음 20:9-18 강해: 피할 수 없는 충돌, 머릿돌, 소유권·청지기
+- [[nt-studies/anon-2026-luke-20-19-26-caesar-image-god-image-belonging]] — 누가복음 20:19-26 강해: 가이사의 형상 vs 하나님의 형상, 프레임 전복, 데나리온 신학, 소속의 증거
 
 ## hermeneutics (해석학)
 
