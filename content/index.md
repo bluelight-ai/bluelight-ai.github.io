@@ -1,5 +1,6 @@
 ---
 title: "말씀클리닉 성경연구 Wiki"
+cssclasses: [index-page]
 ---
 
 # 말씀클리닉 성경연구
