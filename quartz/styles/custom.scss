@@ -1,3 +1,143 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ===== 한국어 전역 최적화 =====
+body {
+  word-break: keep-all;
+  overflow-wrap: break-word;
+}
+
+// ===== INDEX 페이지 전용 스타일 =====
+article.index-page {
+
+  // --- Hero 제목 ---
+  h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 900;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    background: linear-gradient(135deg, #5b4fcf 0%, #3b82f6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 2rem;
+    padding-bottom: 1.25rem;
+    border-bottom: 2px solid var(--lightgray);
+  }
+
+  // --- 섹션 제목 (h2) ---
+  h2 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--lightgray);
+
+    &::before {
+      content: "";
+      display: inline-block;
+      width: 4px;
+      height: 1.1em;
+      background: linear-gradient(180deg, #5b4fcf, #3b82f6);
+      border-radius: 3px;
+      flex-shrink: 0;
+    }
+  }
+
+  // --- 테이블 카드 스타일 ---
+  table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 16px rgba(91, 79, 207, 0.1);
+    margin: 0.75rem 0 2rem;
+
+    thead tr th {
+      background: linear-gradient(135deg, #5b4fcf 0%, #3b82f6 100%);
+      color: #ffffff !important;
+      font-weight: 600;
+      font-size: 0.82rem;
+      padding: 0.65rem 0.9rem;
+      border: none;
+      text-align: left;
+      letter-spacing: 0.02em;
+    }
+
+    tbody tr {
+      transition: background 0.15s ease;
+
+      &:hover {
+        background: rgba(91, 79, 207, 0.04);
+      }
+
+      td {
+        padding: 0.55rem 0.9rem;
+        border-bottom: 1px solid var(--lightgray);
+        font-size: 0.875rem;
+        vertical-align: middle;
+        line-height: 1.5;
+      }
+    }
+
+    tbody tr:last-child td {
+      border-bottom: none;
+    }
+  }
+
+  // --- Callout 카드 ---
+  .callout {
+    border-radius: 12px;
+    border-left: 4px solid var(--secondary);
+    background: linear-gradient(
+      135deg,
+      rgba(91, 79, 207, 0.05) 0%,
+      rgba(59, 130, 246, 0.05) 100%
+    );
+    box-shadow: 0 1px 8px rgba(91, 79, 207, 0.08);
+    margin: 1.25rem 0;
+
+    .callout-title {
+      color: var(--secondary);
+      font-weight: 700;
+    }
+  }
+
+  // --- 링크 스타일 ---
+  a {
+    color: var(--secondary);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
+
+    &:hover {
+      color: var(--tertiary);
+      border-bottom-color: var(--tertiary);
+    }
+  }
+
+  // --- 인용구 (blockquote) ---
+  blockquote {
+    border-left: 3px solid var(--secondary);
+    background: rgba(91, 79, 207, 0.04);
+    border-radius: 0 8px 8px 0;
+    padding: 0.6rem 1rem;
+    margin: 1rem 0;
+    color: var(--darkgray);
+    font-style: normal;
+  }
+
+  // --- 구분선 ---
+  hr {
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, #5b4fcf, #3b82f6, transparent);
+    margin: 2rem 0;
+    border-radius: 2px;
+  }
+}
