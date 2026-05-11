@@ -140,4 +140,44 @@ article.index-page {
     margin: 2rem 0;
     border-radius: 2px;
   }
+
+  // --- 모바일 테이블 열 폭 최적화 ---
+  @media (max-width: 640px) {
+    table {
+      table-layout: fixed;
+      font-size: 0.82rem;
+
+      // # 번호 열: 숫자만 들어갈 최소 폭
+      th:nth-child(1), td:nth-child(1) {
+        width: 1.8rem;
+        min-width: 1.8rem;
+        text-align: center;
+        padding: 0.5rem 0.25rem;
+      }
+
+      // 본문 열
+      th:nth-child(2), td:nth-child(2) {
+        width: 4.2rem;
+        min-width: 4.2rem;
+        padding: 0.5rem 0.35rem;
+      }
+
+      // 제목 열: 나머지 공간 전부
+      th:nth-child(3), td:nth-child(3) {
+        padding: 0.5rem 0.35rem;
+        word-break: keep-all;
+        overflow-wrap: break-word;
+      }
+
+      // ▶ 영상 열: 잘리지 않게
+      th:nth-child(4), td:nth-child(4) {
+        width: 2rem;
+        min-width: 2rem;
+        text-align: center;
+        padding: 0.5rem 0.25rem;
+        white-space: nowrap;
+        overflow: visible;
+      }
+    }
+  }
 }
